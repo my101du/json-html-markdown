@@ -1,7 +1,7 @@
 {
-  "name": "json2md",
-  "version": "1.6.2",
-  "description": "A JSON to Markdown converter.",
+  "name": "json-to-markdown",
+  "version": "1.0.0",
+  "description": "A powerful & comprehensive JSON to Markdown converter.",
   "main": "lib/index.js",
   "directories": {
     "example": "example",
@@ -12,27 +12,29 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/json2md.git"
+    "url": "git+ssh://git@github.com/my101du/json-to-markdown.git"
   },
   "keywords": [
     "json",
     "markdown",
+    "md",
     "converter",
     "generator"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "author": "Eric Zhang <my101du@gmail.com>",
   "contributors": [
+    "IonicaBizau <bizauionica@gmail.com>",
     "Crisoforo Gaspar <github@crisoforo.com>",
     "Dmitry Tsvettsikh <me@reklatsmasters.com>",
     "Daniel Bastos <danielbastos@live.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/json2md/issues"
+    "url": "https://github.com/my101du/json-to-markdown/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/json2md#readme",
+  "homepage": "https://github.com/my101du/json-to-markdown#readme",
   "blah": {
-    "h_img": "http://i.imgur.com/uj64JFw.png",
+    "h_img": "https://i.imgur.com/lr0xojh.jpg",
     "description": "If you're looking to use this on the client side, that's also possible. Check out the [`dist`](/dist) directory.",
     "usages": [
       "I am using this library to generate documentation for my projects, being integrated with [blah](https://github.com/IonicaBizau/node-blah)."
